@@ -51,7 +51,7 @@ This is version 1.0.
 
 LICENSE
 
-Full credit and props to libtcod and the python tutorial code, it is the basis and not my code. Bearlibterminal is great, props go there.
+Full credit and props to libtcod and the python tutorial code, it is the basis of this and more or less still visible. Licenses for libtcodpy and Bearlibterminal are as indicated in the files. My code is public domain, no copyright, spread the love.
 
 
 DISCLAIMER
